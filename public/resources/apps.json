@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://imagizer.imageshack.com/img922/5753/V4eXyD.png",
+    "title": "PixelVoyage Photo Editor",
+    "companyName": "ChromaLabs",
+    "id": 1,
+    "description": "Powerful editing tools and effects for stunning photos.",
+    "size": 48.2,
+    "reviews": 12503,
+    "ratingAvg": 4.6,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 105 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 1050 },
+      { "name": "4 star", "count": 3150 },
+      { "name": "5 star", "count": 7988 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img923/6784/A1fBvC.png",
+    "title": "ZenStream Music Player",
+    "companyName": "Audiophile Inc.",
+    "id": 2,
+    "description": "Lossless audio streaming and intelligent playlists.",
+    "size": 35.7,
+    "reviews": 8912,
+    "ratingAvg": 4.8,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 6512 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img924/7895/C2gDxE.png",
+    "title": "QuantumTasks To-Do List",
+    "companyName": "ProducTech Ltd.",
+    "id": 3,
+    "description": "Seamless task management with collaborative features.",
+    "size": 12.1,
+    "reviews": 15670,
+    "ratingAvg": 4.5,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 9070 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img922/8906/E3hFyG.png",
+    "title": "FitFlow Yoga Guide",
+    "companyName": "Wellness Apps",
+    "id": 4,
+    "description": "Personalized yoga routines for all levels and goals.",
+    "size": 62.8,
+    "reviews": 6543,
+    "ratingAvg": 4.7,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 4363 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img923/9017/G4iHzI.png",
+    "title": "StarChrono Astronomy Map",
+    "companyName": "Cosmic Explorers",
+    "id": 5,
+    "description": "Interactive night sky guide and celestial event tracker.",
+    "size": 89.4,
+    "reviews": 4321,
+    "ratingAvg": 4.9,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 3311 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img924/1028/I5jKzK.png",
+    "title": "MoneyMentor Budgeting",
+    "companyName": "Financially Sane Inc.",
+    "id": 6,
+    "description": "Intelligent expense tracking and financial planning tools.",
+    "size": 18.5,
+    "reviews": 11234,
+    "ratingAvg": 4.6,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 6084 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img922/2139/K6lLzM.png",
+    "title": "RecipeRanger Cook Book",
+    "companyName": "Culinary Tech",
+    "id": 7,
+    "description": "Thousands of delicious recipes with step-by-step guides.",
+    "size": 42.1,
+    "reviews": 9876,
+    "ratingAvg": 4.7,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 6306 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img923/3240/M7nMzO.png",
+    "title": "LinguaLeap Language App",
+    "companyName": "Polyglot Solutions",
+    "id": 8,
+    "description": "Gamified language learning for over 30 languages.",
+    "size": 55.6,
+    "reviews": 18765,
+    "ratingAvg": 4.5,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 10515 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img924/4351/O8pQzQ.png",
+    "title": "MindPalace Meditation",
+    "companyName": "Serenity Softwares",
+    "id": 9,
+    "description": "Guided meditations for stress relief and mindfulness.",
+    "size": 31.9,
+    "reviews": 7654,
+    "ratingAvg": 4.8,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 5534 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img922/5462/Q9rSzS.png",
+    "title": "GameGrid Arcade Hub",
+    "companyName": "PixelPerfect Gaming",
+    "id": 10,
+    "description": "A collection of classic and modern arcade games.",
+    "size": 110.2,
+    "reviews": 14321,
+    "ratingAvg": 4.4,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 440 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 7361 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img923/6573/S0tUzU.png",
+    "title": "StoryWeaver E-reader",
+    "companyName": "Narrative Tech",
+    "id": 11,
+    "description": "An immersive e-reading experience with customizable settings.",
+    "size": 25.4,
+    "reviews": 8765,
+    "ratingAvg": 4.7,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 5625 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img924/7684/U1vWzW.png",
+    "title": "CodeCracker IDE",
+    "companyName": "DevTools Pro",
+    "id": 12,
+    "description": "Mobile integrated development environment for multiple languages.",
+    "size": 95.1,
+    "reviews": 5678,
+    "ratingAvg": 4.6,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 3268 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img922/8795/W2xYzY.png",
+    "title": "DataGuard VPN",
+    "companyName": "SecureNet Inc.",
+    "id": 13,
+    "description": "Fast and secure VPN service for private browsing.",
+    "size": 22.8,
+    "reviews": 13210,
+    "ratingAvg": 4.5,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 360 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 7470 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img923/9806/Y3zBzB.png",
+    "title": "HomeHub Smart Control",
+    "companyName": "IoT Connect Ltd.",
+    "id": 14,
+    "description": "Unified control panel for all your smart home devices.",
+    "size": 49.3,
+    "reviews": 9012,
+    "ratingAvg": 4.7,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 5752 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img924/1017/A4bDzD.png",
+    "title": "TravelTrek Planner",
+    "companyName": "Wanderlust Apps",
+    "id": 15,
+    "description": "Comprehensive trip planning and itinerary management.",
+    "size": 68.7,
+    "reviews": 6123,
+    "ratingAvg": 4.6,
+    "downloads": 700000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3543 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img922/2128/C5dFzF.png",
+    "title": "NewsNexa Aggregator",
+    "companyName": "InfoStream Media",
+    "id": 16,
+    "description": "Personalized news feed from diverse sources worldwide.",
+    "size": 15.2,
+    "reviews": 10567,
+    "ratingAvg": 4.4,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 5587 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img923/3239/E6fHzH.png",
+    "title": "PetPal Tracker",
+    "companyName": "Pawsitive Tech",
+    "id": 17,
+    "description": "GPS tracking and activity monitoring for your pets.",
+    "size": 38.4,
+    "reviews": 7321,
+    "ratingAvg": 4.7,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 4571 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img924/4340/G7hKzK.png",
+    "title": "EcoScore Calculator",
+    "companyName": "Green Solutions Inc.",
+    "id": 18,
+    "description": "Track your carbon footprint and discover eco-friendly tips.",
+    "size": 10.9,
+    "reviews": 4123,
+    "ratingAvg": 4.8,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2913 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img922/5451/I8jMzM.png",
+    "title": "VirtualVault File Manager",
+    "companyName": "Cloud Storage Solutions",
+    "id": 19,
+    "description": "Secure file storage and advanced file organization.",
+    "size": 33.1,
+    "reviews": 11098,
+    "ratingAvg": 4.5,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 6448 }
+    ]
+  },
+  {
+    "image": "https://imagizer.imageshack.com/img923/6562/K9lPzP.png",
+    "title": "ArtistAlley Portfolio",
+    "companyName": "Creative Spark Ltd.",
+    "id": 20,
+    "description": "Showcase your artwork and connect with other artists.",
+    "size": 71.3,
+    "reviews": 5876,
+    "ratingAvg": 4.6,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 3466 }
+    ]
+  }
+]

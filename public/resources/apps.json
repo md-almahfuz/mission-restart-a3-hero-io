@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://imagizer.imageshack.com/img922/5753/V4eXyD.png",
+    "image": "https://images.unsplash.com/photo-1510672981848-a1c4f1cb5ccf?w=400&h=400&fit=crop",
     "title": "PixelVoyage Photo Editor",
     "companyName": "ChromaLabs",
     "id": 1,
@@ -10,15 +10,30 @@
     "ratingAvg": 4.6,
     "downloads": 1000000,
     "ratings": [
-      { "name": "1 star", "count": 105 },
-      { "name": "2 star", "count": 210 },
-      { "name": "3 star", "count": 1050 },
-      { "name": "4 star", "count": 3150 },
-      { "name": "5 star", "count": 7988 }
+      {
+        "name": "1 star",
+        "count": 105
+      },
+      {
+        "name": "2 star",
+        "count": 210
+      },
+      {
+        "name": "3 star",
+        "count": 1050
+      },
+      {
+        "name": "4 star",
+        "count": 3150
+      },
+      {
+        "name": "5 star",
+        "count": 7988
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img923/6784/A1fBvC.png",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&h=400&fit=crop",
     "title": "ZenStream Music Player",
     "companyName": "Audiophile Inc.",
     "id": 2,
@@ -28,15 +43,30 @@
     "ratingAvg": 4.8,
     "downloads": 500000,
     "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 450 },
-      { "name": "4 star", "count": 1800 },
-      { "name": "5 star", "count": 6512 }
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 450
+      },
+      {
+        "name": "4 star",
+        "count": 1800
+      },
+      {
+        "name": "5 star",
+        "count": 6512
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img924/7895/C2gDxE.png",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&h=400&fit=crop",
     "title": "QuantumTasks To-Do List",
     "companyName": "ProducTech Ltd.",
     "id": 3,
@@ -46,15 +76,30 @@
     "ratingAvg": 4.5,
     "downloads": 2500000,
     "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 400 },
-      { "name": "3 star", "count": 1500 },
-      { "name": "4 star", "count": 4500 },
-      { "name": "5 star", "count": 9070 }
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 400
+      },
+      {
+        "name": "3 star",
+        "count": 1500
+      },
+      {
+        "name": "4 star",
+        "count": 4500
+      },
+      {
+        "name": "5 star",
+        "count": 9070
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img922/8906/E3hFyG.png",
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=400&fit=crop",
     "title": "FitFlow Yoga Guide",
     "companyName": "Wellness Apps",
     "id": 4,
@@ -64,15 +109,30 @@
     "ratingAvg": 4.7,
     "downloads": 750000,
     "ratings": [
-      { "name": "1 star", "count": 60 },
-      { "name": "2 star", "count": 120 },
-      { "name": "3 star", "count": 500 },
-      { "name": "4 star", "count": 1500 },
-      { "name": "5 star", "count": 4363 }
+      {
+        "name": "1 star",
+        "count": 60
+      },
+      {
+        "name": "2 star",
+        "count": 120
+      },
+      {
+        "name": "3 star",
+        "count": 500
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 4363
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img923/9017/G4iHzI.png",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=400&fit=crop",
     "title": "StarChrono Astronomy Map",
     "companyName": "Cosmic Explorers",
     "id": 5,
@@ -82,15 +142,30 @@
     "ratingAvg": 4.9,
     "downloads": 200000,
     "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 800 },
-      { "name": "5 star", "count": 3311 }
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 150
+      },
+      {
+        "name": "4 star",
+        "count": 800
+      },
+      {
+        "name": "5 star",
+        "count": 3311
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img924/1028/I5jKzK.png",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=400&fit=crop",
     "title": "MoneyMentor Budgeting",
     "companyName": "Financially Sane Inc.",
     "id": 6,
@@ -100,15 +175,30 @@
     "ratingAvg": 4.6,
     "downloads": 1500000,
     "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 1200 },
-      { "name": "4 star", "count": 3500 },
-      { "name": "5 star", "count": 6084 }
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 1200
+      },
+      {
+        "name": "4 star",
+        "count": 3500
+      },
+      {
+        "name": "5 star",
+        "count": 6084
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img922/2139/K6lLzM.png",
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=400&h=400&fit=crop",
     "title": "RecipeRanger Cook Book",
     "companyName": "Culinary Tech",
     "id": 7,
@@ -118,15 +208,30 @@
     "ratingAvg": 4.7,
     "downloads": 1000000,
     "ratings": [
-      { "name": "1 star", "count": 90 },
-      { "name": "2 star", "count": 180 },
-      { "name": "3 star", "count": 800 },
-      { "name": "4 star", "count": 2500 },
-      { "name": "5 star", "count": 6306 }
+      {
+        "name": "1 star",
+        "count": 90
+      },
+      {
+        "name": "2 star",
+        "count": 180
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 2500
+      },
+      {
+        "name": "5 star",
+        "count": 6306
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img923/3240/M7nMzO.png",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=400&h=400&fit=crop",
     "title": "LinguaLeap Language App",
     "companyName": "Polyglot Solutions",
     "id": 8,
@@ -136,15 +241,30 @@
     "ratingAvg": 4.5,
     "downloads": 5000000,
     "ratings": [
-      { "name": "1 star", "count": 250 },
-      { "name": "2 star", "count": 500 },
-      { "name": "3 star", "count": 2000 },
-      { "name": "4 star", "count": 5500 },
-      { "name": "5 star", "count": 10515 }
+      {
+        "name": "1 star",
+        "count": 250
+      },
+      {
+        "name": "2 star",
+        "count": 500
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 5500
+      },
+      {
+        "name": "5 star",
+        "count": 10515
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img924/4351/O8pQzQ.png",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=400&fit=crop",
     "title": "MindPalace Meditation",
     "companyName": "Serenity Softwares",
     "id": 9,
@@ -154,15 +274,30 @@
     "ratingAvg": 4.8,
     "downloads": 800000,
     "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 400 },
-      { "name": "4 star", "count": 1600 },
-      { "name": "5 star", "count": 5534 }
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 80
+      },
+      {
+        "name": "3 star",
+        "count": 400
+      },
+      {
+        "name": "4 star",
+        "count": 1600
+      },
+      {
+        "name": "5 star",
+        "count": 5534
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img922/5462/Q9rSzS.png",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=400&fit=crop",
     "title": "GameGrid Arcade Hub",
     "companyName": "PixelPerfect Gaming",
     "id": 10,
@@ -172,15 +307,30 @@
     "ratingAvg": 4.4,
     "downloads": 2000000,
     "ratings": [
-      { "name": "1 star", "count": 220 },
-      { "name": "2 star", "count": 440 },
-      { "name": "3 star", "count": 1800 },
-      { "name": "4 star", "count": 4500 },
-      { "name": "5 star", "count": 7361 }
+      {
+        "name": "1 star",
+        "count": 220
+      },
+      {
+        "name": "2 star",
+        "count": 440
+      },
+      {
+        "name": "3 star",
+        "count": 1800
+      },
+      {
+        "name": "4 star",
+        "count": 4500
+      },
+      {
+        "name": "5 star",
+        "count": 7361
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img923/6573/S0tUzU.png",
+    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=400&fit=crop",
     "title": "StoryWeaver E-reader",
     "companyName": "Narrative Tech",
     "id": 11,
@@ -190,15 +340,30 @@
     "ratingAvg": 4.7,
     "downloads": 1000000,
     "ratings": [
-      { "name": "1 star", "count": 80 },
-      { "name": "2 star", "count": 160 },
-      { "name": "3 star", "count": 700 },
-      { "name": "4 star", "count": 2200 },
-      { "name": "5 star", "count": 5625 }
+      {
+        "name": "1 star",
+        "count": 80
+      },
+      {
+        "name": "2 star",
+        "count": 160
+      },
+      {
+        "name": "3 star",
+        "count": 700
+      },
+      {
+        "name": "4 star",
+        "count": 2200
+      },
+      {
+        "name": "5 star",
+        "count": 5625
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img924/7684/U1vWzW.png",
+    "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=400&h=400&fit=crop",
     "title": "CodeCracker IDE",
     "companyName": "DevTools Pro",
     "id": 12,
@@ -208,15 +373,30 @@
     "ratingAvg": 4.6,
     "downloads": 300000,
     "ratings": [
-      { "name": "1 star", "count": 70 },
-      { "name": "2 star", "count": 140 },
-      { "name": "3 star", "count": 600 },
-      { "name": "4 star", "count": 1600 },
-      { "name": "5 star", "count": 3268 }
+      {
+        "name": "1 star",
+        "count": 70
+      },
+      {
+        "name": "2 star",
+        "count": 140
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 1600
+      },
+      {
+        "name": "5 star",
+        "count": 3268
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img922/8795/W2xYzY.png",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&h=400&fit=crop",
     "title": "DataGuard VPN",
     "companyName": "SecureNet Inc.",
     "id": 13,
@@ -226,15 +406,30 @@
     "ratingAvg": 4.5,
     "downloads": 2500000,
     "ratings": [
-      { "name": "1 star", "count": 180 },
-      { "name": "2 star", "count": 360 },
-      { "name": "3 star", "count": 1400 },
-      { "name": "4 star", "count": 3800 },
-      { "name": "5 star", "count": 7470 }
+      {
+        "name": "1 star",
+        "count": 180
+      },
+      {
+        "name": "2 star",
+        "count": 360
+      },
+      {
+        "name": "3 star",
+        "count": 1400
+      },
+      {
+        "name": "4 star",
+        "count": 3800
+      },
+      {
+        "name": "5 star",
+        "count": 7470
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img923/9806/Y3zBzB.png",
+    "image": "https://images.unsplash.com/photo-1558002038-103792e1702d?w=400&h=400&fit=crop",
     "title": "HomeHub Smart Control",
     "companyName": "IoT Connect Ltd.",
     "id": 14,
@@ -244,15 +439,30 @@
     "ratingAvg": 4.7,
     "downloads": 900000,
     "ratings": [
-      { "name": "1 star", "count": 70 },
-      { "name": "2 star", "count": 140 },
-      { "name": "3 star", "count": 750 },
-      { "name": "4 star", "count": 2300 },
-      { "name": "5 star", "count": 5752 }
+      {
+        "name": "1 star",
+        "count": 70
+      },
+      {
+        "name": "2 star",
+        "count": 140
+      },
+      {
+        "name": "3 star",
+        "count": 750
+      },
+      {
+        "name": "4 star",
+        "count": 2300
+      },
+      {
+        "name": "5 star",
+        "count": 5752
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img924/1017/A4bDzD.png",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400&h=400&fit=crop",
     "title": "TravelTrek Planner",
     "companyName": "Wanderlust Apps",
     "id": 15,
@@ -262,15 +472,30 @@
     "ratingAvg": 4.6,
     "downloads": 700000,
     "ratings": [
-      { "name": "1 star", "count": 60 },
-      { "name": "2 star", "count": 120 },
-      { "name": "3 star", "count": 600 },
-      { "name": "4 star", "count": 1800 },
-      { "name": "5 star", "count": 3543 }
+      {
+        "name": "1 star",
+        "count": 60
+      },
+      {
+        "name": "2 star",
+        "count": 120
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 1800
+      },
+      {
+        "name": "5 star",
+        "count": 3543
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img922/2128/C5dFzF.png",
+    "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?q=80&w=400&h=400&auto=format&fit=crop",
     "title": "NewsNexa Aggregator",
     "companyName": "InfoStream Media",
     "id": 16,
@@ -280,15 +505,30 @@
     "ratingAvg": 4.4,
     "downloads": 1800000,
     "ratings": [
-      { "name": "1 star", "count": 160 },
-      { "name": "2 star", "count": 320 },
-      { "name": "3 star", "count": 1300 },
-      { "name": "4 star", "count": 3200 },
-      { "name": "5 star", "count": 5587 }
+      {
+        "name": "1 star",
+        "count": 160
+      },
+      {
+        "name": "2 star",
+        "count": 320
+      },
+      {
+        "name": "3 star",
+        "count": 1300
+      },
+      {
+        "name": "4 star",
+        "count": 3200
+      },
+      {
+        "name": "5 star",
+        "count": 5587
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img923/3239/E6fHzH.png",
+    "image": "https://images.unsplash.com/photo-1516733725897-1aa73b87c8e8?w=400&h=400&fit=crop",
     "title": "PetPal Tracker",
     "companyName": "Pawsitive Tech",
     "id": 17,
@@ -298,15 +538,30 @@
     "ratingAvg": 4.7,
     "downloads": 500000,
     "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 600 },
-      { "name": "4 star", "count": 2000 },
-      { "name": "5 star", "count": 4571 }
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 2000
+      },
+      {
+        "name": "5 star",
+        "count": 4571
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img924/4340/G7hKzK.png",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=400&h=400&fit=crop",
     "title": "EcoScore Calculator",
     "companyName": "Green Solutions Inc.",
     "id": 18,
@@ -316,15 +571,30 @@
     "ratingAvg": 4.8,
     "downloads": 250000,
     "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 250 },
-      { "name": "4 star", "count": 900 },
-      { "name": "5 star", "count": 2913 }
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 250
+      },
+      {
+        "name": "4 star",
+        "count": 900
+      },
+      {
+        "name": "5 star",
+        "count": 2913
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img922/5451/I8jMzM.png",
+    "image": "https://images.unsplash.com/photo-1544396821-4dd40b938ad3?w=400&h=400&fit=crop",
     "title": "VirtualVault File Manager",
     "companyName": "Cloud Storage Solutions",
     "id": 19,
@@ -334,15 +604,30 @@
     "ratingAvg": 4.5,
     "downloads": 2000000,
     "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 1200 },
-      { "name": "4 star", "count": 3000 },
-      { "name": "5 star", "count": 6448 }
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 1200
+      },
+      {
+        "name": "4 star",
+        "count": 3000
+      },
+      {
+        "name": "5 star",
+        "count": 6448
+      }
     ]
   },
   {
-    "image": "https://imagizer.imageshack.com/img923/6562/K9lPzP.png",
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=400&h=400&fit=crop",
     "title": "ArtistAlley Portfolio",
     "companyName": "Creative Spark Ltd.",
     "id": 20,
@@ -352,11 +637,26 @@
     "ratingAvg": 4.6,
     "downloads": 400000,
     "ratings": [
-      { "name": "1 star", "count": 70 },
-      { "name": "2 star", "count": 140 },
-      { "name": "3 star", "count": 600 },
-      { "name": "4 star", "count": 1600 },
-      { "name": "5 star", "count": 3466 }
+      {
+        "name": "1 star",
+        "count": 70
+      },
+      {
+        "name": "2 star",
+        "count": 140
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 1600
+      },
+      {
+        "name": "5 star",
+        "count": 3466
+      }
     ]
   }
 ]

@@ -1,8 +1,11 @@
 import React from 'react';
 import AppCard from './AppCard';
+import { useNavigate } from 'react-router';
 
 const TrendingApps = ({ appsData }) => {
-    // 1. Logic to get the 8 most popular apps
+    const navigate = useNavigate();
+
+    // Logic to get the 8 most popular apps
     // We sort by downloads (highest first) and take the first 8
     const popularApps = [...appsData]
         .sort((a, b) => b.downloads - a.downloads)
@@ -27,7 +30,9 @@ const TrendingApps = ({ appsData }) => {
 
                 {/* Show All Button */}
                 <div className="mt-12">
-                    <button className="btn bg-[#7C3AED] hover:bg-[#6D28D9] text-white border-none px-10">
+                    <button
+                        onClick={() => navigate('/apps')}
+                        className="btn bg-[#7C3AED] hover:bg-[#6D28D9] text-white border-none px-10">
                         Show All
                     </button>
                 </div>

@@ -6,6 +6,8 @@ import Loading from '../pages/Loading';
 import AllApps from '../pages/AllApps';
 import AppDetails from '../pages/AppDetails';
 import InstalledApp from '../pages/InstalledApp';
+import NoRoute from '../pages/NoRoute';
+import NoApp from '../pages/NoApp';
 
 const Router = createBrowserRouter(
     [
@@ -54,9 +56,11 @@ const Router = createBrowserRouter(
                 return singleApp; // Return the specific app data for the AppDetails page
 
             },
+            errorElement: <NoApp />,
             hydrateFallbackElement: <Loading />,
 
         },
+
         {
             path: '/installation',
             element: <InstalledApp></InstalledApp>
@@ -64,7 +68,11 @@ const Router = createBrowserRouter(
         {
             path: '/contribution',
             element: <div>Contributions</div>,
-        }
+        },
+        {
+            path: "/*",
+            element: <NoRoute></NoRoute>,
+        },
 
 
 

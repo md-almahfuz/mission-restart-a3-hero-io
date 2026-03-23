@@ -1,12 +1,50 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router';
-import { FaArrowCircleDown, FaStar, FaThList, FaDownload } from 'react-icons/fa';
+import { FaArrowCircleDown, FaStar, FaThList, FaDownload, FaCheckCircle } from 'react-icons/fa';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import RatingCrart from '../components/RatingCrart';
+import { toast } from 'react-toastify';
 
 const AppDetails = () => {
     const app = useLoaderData();
+
+    //Create a state ti track if the app is Installed
+    const [isInstalled, setIsInstalled] = useState(false);
+
+    useEffect(() => {
+        const storedApps = JSON.parse(localStorage.getItem('installed-apps')) || [];
+        const found = storedApps.some(item => item.id === app.id);
+        setIsInstalled(found);
+    }, [app.id]);
+
+    const handleInstall = () => {
+
+        //Get Already installed app from local storage
+        const storedApps = JSON.parse(localStorage.getItem('installed-apps')) || [];
+
+        //check if this app isalready installed
+        const isAlreadyInstalled = storedApps.find(item => item.id === app.id);
+
+        if (!isAlreadyInstalled) {
+
+            //Add new appp object to the array
+            const updatedApps = [...storedApps, app];
+
+            //Save back to local storage
+            localStorage.setItem('installed-apps', JSON.stringify(updatedApps));
+
+            toast(`${app.title} has been installed!`)
+
+
+        }
+        else {
+            toast("This App is already installed");
+        }
+
+
+
+    }
 
     return (
         <div className="bg-slate-50 min-h-screen">
@@ -54,10 +92,27 @@ const AppDetails = () => {
                                 </div>
                             </div>
 
-                            {/* Green Install Button */}
-                            <button className="btn btn-lg bg-[#00D094] hover:bg-[#00B883] text-white border-none rounded-xl px-10 text-lg shadow-lg shadow-green-100">
-                                <FaDownload className="mr-2" />
-                                Install Now ({app.size} MB)
+                            {/* Dynamic button */}
+                            <button
+                                onClick={handleInstall}
+                                disabled={isInstalled}
+                                className={`btn btn-lg border-none rounded-xl px-10 text-lg shadow-lg transition-all
+                                    ${isInstalled
+                                        ? "bg-gray-200 text-gray-500 cursor-not-allowed shadow-none"
+                                        : "bg-[#00D094] hover:bg-[#00B883] text-white shadow-green-100"
+                                    }`}
+                            >
+                                {isInstalled ? (
+                                    <>
+                                        <FaCheckCircle className="mr-2" />
+                                        Installed
+                                    </>
+                                ) : (
+                                    <>
+                                        <FaDownload className="mr-2" />
+                                        Install Now ({app.size} MB)
+                                    </>
+                                )}
                             </button>
                         </div>
                     </div>
@@ -81,3 +136,4 @@ const AppDetails = () => {
 };
 
 export default AppDetails;
+

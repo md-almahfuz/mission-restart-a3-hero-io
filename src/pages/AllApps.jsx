@@ -26,9 +26,9 @@ const AllApps = () => {
 
 
     return (
-        <div className='container mx-auto px-4 py-10'>
+        <div className='container mx-auto px-4'>
             <Navbar />
-            <h1 className='text-4xl font-bold text-[#1E293B]'>Our All Applications</h1>
+            <h1 className='text-4xl font-bold text-[#1E293B] mt-5'>Our All Applications</h1>
             <p className='text-gray-500 mt-2'>Explore All Apps on the Market developed by us. We code for Millions</p>
             <div className="flex justify-between gap-6 mt-4 mb-8">
 

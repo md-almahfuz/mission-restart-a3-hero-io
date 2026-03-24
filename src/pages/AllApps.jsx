@@ -51,9 +51,9 @@ const AllApps = () => {
                         />
                     </div>
                     {/* The button is optional since the search happens as we type! */}
-                    <button className="btn bg-[#7C3AED] hover:bg-[#6D28D9] text-white border-none px-6">
+                    {/* <button className="btn bg-[#7C3AED] hover:bg-[#6D28D9] text-white border-none px-6">
                         Search
-                    </button>
+                    </button> */}
                 </div>
 
             </div>

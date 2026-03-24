@@ -2,18 +2,21 @@ import React from 'react';
 import { createBrowserRouter } from 'react-router';
 import HomeLayout from '../layouts/HomeLayout';
 import HomePageContent from '../pages/HomePage/HomePageContent';
-import Loading from '../pages/Loading';
 import AllApps from '../pages/AllApps';
 import AppDetails from '../pages/AppDetails';
 import InstalledApp from '../pages/InstalledApp';
 import NoRoute from '../pages/NoRoute';
 import NoApp from '../pages/NoApp';
+import Loading from '../components/Loading';
+
 
 const Router = createBrowserRouter(
     [
         {
             path: '/',
             element: <HomeLayout></HomeLayout>,
+            // If the loader is still pending when the route is rendered, show the Loading component as a fallback
+            hydrateFallbackElement: <Loading />,
             children: [
                 {
                     index: true,
@@ -24,8 +27,7 @@ const Router = createBrowserRouter(
                         if (!response.ok) throw new Error("Failed to load apps");
                         return response.json(); // React Router handles the .json() promise and will throw if it fails, which is caught by the errorElement
                     },
-                    // If the loader is still pending when the route is rendered, show the Loading component as a fallback
-                    hydrateFallbackElement: <Loading />,
+
                 },
             ],
         },
@@ -39,6 +41,11 @@ const Router = createBrowserRouter(
             },
             // If the loader is still pending when the route is rendered, show the Loading component as a fallback
             hydrateFallbackElement: <Loading />,
+            // hydrateFallbackElement: (
+            //     <div className="flex justify-center p-20">
+            //         <span className="loading loading-ring loading-lg text-[#7C3AED]"></span>
+            //     </div>
+            // ),
         },
 
         {
@@ -56,8 +63,10 @@ const Router = createBrowserRouter(
                 return singleApp; // Return the specific app data for the AppDetails page
 
             },
-            errorElement: <NoApp />,
+
             hydrateFallbackElement: <Loading />,
+
+            errorElement: <NoApp />,
 
         },
 

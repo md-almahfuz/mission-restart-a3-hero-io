@@ -48,7 +48,7 @@ Clone the repository and install the dependencies:
 git clone [https://github.com/your-username/hero-io.git](https://github.com/md-almahfuz/mission-restart-a3-hero-io)
 cd hero-io
 npm install
-'''
+```
 
 🌐 Live Demo
 Visit the live site here: https://gregarious-meringue-2fb191.netlify.app/

@@ -4,7 +4,7 @@ import { useLoaderData } from 'react-router';
 import TrendingApps from '../../components/TrendingApps';
 
 const HomePageContent = () => {
-    const apps = useLoaderData();
+    const apps = useLoaderData() || [];
 
     //console.log("Loaded apps data:", apps); // Debugging log to check loaded data
 

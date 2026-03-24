@@ -7,7 +7,7 @@ import Footer from '../components/Footer';
 const AllApps = () => {
 
     // Load apps data using useLoaderData
-    const allApps = useLoaderData();
+    const allApps = useLoaderData() || [];
 
 
     //console.log("Loaded apps data in AllApps:", allApps); // Debugging log to check loaded data
@@ -17,10 +17,24 @@ const AllApps = () => {
     const [searchQuery, setSearchQuery] = useState("");
 
     // Filter apps based on search query (case-insensitive)
-    const filteredApps = allApps.filter((app) =>
-        app.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-        app.companyName.toLowerCase().includes(searchQuery.toLowerCase())
-    );
+    // const filteredApps = allApps.filter((app) =>
+    //     app.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+    //     app.companyName.toLowerCase().includes(searchQuery.toLowerCase())
+    // );
+
+    // Filter apps safely
+    const filteredApps = allApps.filter((app) => {
+        // Convert everything to lowercase once for speed
+        const search = searchQuery.toLowerCase();
+
+        // Check if title exists AND if it includes the search term
+        const titleMatch = app?.title ? app.title.toLowerCase().includes(search) : false;
+
+        // Check if companyName exists AND if it includes the search term
+        const companyMatch = app?.companyName ? app.companyName.toLowerCase().includes(search) : false;
+
+        return titleMatch || companyMatch;
+    });
 
     const TotalApps = filteredApps.length;
 

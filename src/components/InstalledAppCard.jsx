@@ -8,6 +8,7 @@ const InstalledAppCard = ({ app, onUninstall }) => {
                 <div>
                     <h3 className="font-bold text-lg">{app.title}</h3>
                     <p className="text-sm text-[#7C3AED]">{app.companyName}</p>
+                    <p className="text-sm text-[#76ed3a]">Size: {app.size}MB</p>
                 </div>
             </div>
             <div className="">

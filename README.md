@@ -35,28 +35,24 @@
 | **Recharts** | Data visualization for app rating distributions |
 | **React Toastify** | Non-blocking notifications for user feedback |
 
-🚀 Getting Started
+## 🚀 Getting Started
+
 Follow these steps to get your local development environment running:
 
-1. Prerequisites
-Make sure you have Node.js installed on your machine.
+### 1. Prerequisites
+Make sure you have **Node.js** installed on your machine.
 
-2. Installation
+### 2. Installation
 Clone the repository and install the dependencies:
-
-git clone https://github.com/your-username/hero-io.git
+```bash
+git clone [https://github.com/your-username/hero-io.git](https://github.com/md-almahfuz/mission-restart-a3-hero-io)
 cd hero-io
 npm install
 
 
-3. Running the Project
-Launch the Vite development server:
+🌐 Live Demo
+Visit the live site here: https://gregarious-meringue-2fb191.netlify.app/
 
-npm run dev
-
-
-
-https://gregarious-meringue-2fb191.netlify.app/
 Open http://localhost:5173 or https://gregarious-meringue-2fb191.netlify.app/ in your browser to see the result.
 
 
